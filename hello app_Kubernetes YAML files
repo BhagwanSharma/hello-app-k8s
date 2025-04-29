@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "Add Kubernetes deployment files"
-git remote add origin https://github.com/BhagwanSharma/hello-app-k8s.git
+git remote add origin https://github.com/ebhagsh/hello-app-k8s.git
 git push -u origin main
